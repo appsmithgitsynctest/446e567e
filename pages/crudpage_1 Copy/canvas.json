@@ -2172,7 +2172,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "crudpage_1 Copy_SelectQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
